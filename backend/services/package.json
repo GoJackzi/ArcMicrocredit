@@ -1,0 +1,27 @@
+{
+  "name": "arc-microcredit-services",
+  "version": "1.0.0",
+  "description": "Backend services for Arc Microcredit Protocol with Dynamic integration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node src/setup-wallets.js",
+    "approve-loans": "node src/approve-loans.js",
+    "create-profile": "node src/create-profile.js"
+  },
+  "dependencies": {
+    "@dynamic-labs-wallet/node": "latest",
+    "@dynamic-labs-wallet/node-evm": "latest",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0",
+    "viem": "2.38.2"
+  },
+  "keywords": [
+    "dynamic",
+    "server-wallets",
+    "microcredit",
+    "arc-testnet"
+  ],
+  "author": "",
+  "license": "MIT"
+}

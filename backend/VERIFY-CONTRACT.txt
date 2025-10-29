@@ -1,0 +1,40 @@
+# Contract Verification - Ready to Copy/Paste
+
+## Contract Details for Verification
+
+**Contract Address:** `0xa8d7b887B046fbd51a4d2E870c99F1b86CC6de73`
+
+**Verification Settings:**
+- **Compiler Version:** `v0.8.20+commit.a1b79de6`
+- **License:** `MIT`
+- **Optimization:** `Yes`
+- **Runs:** `200`
+- **Source Code:** See `src/ReputationCredit.sol`
+
+## Quick Verification Steps
+
+1. **Open:** https://testnet.arcscan.app/address/0xa8d7b887B046fbd51a4d2E870c99F1b86CC6de73
+
+2. **Click:** "Verify Contract" or "Verify and Publish"
+
+3. **Enter:**
+   - Compiler: `v0.8.20+commit.a1b79de6`
+   - License: `MIT`
+   - Optimization: `Yes`
+   - Runs: `200`
+   - Source Code: Copy entire file from `src/ReputationCredit.sol`
+
+4. **Submit**
+
+5. **Wait:** Verification usually takes 10-30 seconds
+
+## Full Source Code
+
+The complete source code is in: `G:\Arc-Microcredit-Protocol\backend\src\ReputationCredit.sol`
+
+Just copy that entire file and paste it into the verification form!
+
+---
+
+**That's it!** Just copy-paste your source code. 🚀
+
